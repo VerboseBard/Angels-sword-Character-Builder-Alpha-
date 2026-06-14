@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node scripts/server.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}
