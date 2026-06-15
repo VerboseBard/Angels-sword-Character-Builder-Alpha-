@@ -1,13 +1,22 @@
 Lyrian Chronicles Character Builder
 Angels Sword Beta 1.2 Package
 
+DOWNLOAD
+
+Use this GitHub release download:
+
+https://github.com/VerboseBard/Angels-sword-Character-Builder-Alpha-/releases/download/beta-1.2/Angel-Sword-Lirian-Chronicles-Beta-1.2-Windows.zip
+
+Do not use the green GitHub Code button unless you are trying to download the developer source files.
+
 QUICK START
 
-1. Extract the whole folder from the zip file.
-2. Open the folder.
-3. Double-click Launch Character Builder.bat.
-4. Your browser should open to the character builder.
-5. Keep the black launcher window open while using the app.
+1. Download the Windows zip file from the release link above.
+2. Right-click the zip file and choose Extract All.
+3. Open the extracted Angel-Sword-Lirian-Chronicles-Beta-1.2 folder.
+4. Double-click Launch Character Builder.bat.
+5. Your browser should open to the character builder.
+6. Keep the black launcher window open while using the app. Closing that window stops the character builder.
 
 IF WINDOWS WARNS YOU
 

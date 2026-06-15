@@ -2,15 +2,37 @@
 
 This is a standalone Beta 1.2 package for the Angel Sword character builder and live play sheet.
 
-## Start Here
+## Download And Run
 
-Double-click:
+Use the release ZIP, not the green GitHub `Code` button.
+
+1. Click this download link:
+
+   [Download Angel Sword Lirian Chronicles Beta 1.2 for Windows](https://github.com/VerboseBard/Angels-sword-Character-Builder-Alpha-/releases/download/beta-1.2/Angel-Sword-Lirian-Chronicles-Beta-1.2-Windows.zip)
+
+2. When the ZIP finishes downloading, right-click it and choose `Extract All`.
+
+3. Open the extracted folder:
+
+   ```text
+   Angel-Sword-Lirian-Chronicles-Beta-1.2
+   ```
+
+4. Double-click:
 
 ```text
 Launch Character Builder.bat
 ```
 
-That starts a small local server and opens the character builder in your browser. Keep the launcher window open while using the app.
+5. Keep the black launcher window open while using the app. Closing that window stops the character builder.
+
+The ZIP file is attached to the GitHub release here:
+
+[Beta 1.2 Release Page](https://github.com/VerboseBard/Angels-sword-Character-Builder-Alpha-/releases/tag/beta-1.2)
+
+## Windows Warning
+
+Windows may warn you because this is a beta package and not a signed installer. If you trust this build, choose `More Info`, then `Run Anyway`.
 
 ## Included
 
@@ -25,8 +47,6 @@ That starts a small local server and opens the character builder in your browser
 ## Tester Notes
 
 Characters are saved in the browser on the computer where you use the app. Export a JSON, PDF, or spreadsheet copy if you want a backup or need to move the character to another machine.
-
-If Windows blocks the batch file, choose `More Info`, then `Run Anyway` if you trust the sender.
 
 ## Notes
 
