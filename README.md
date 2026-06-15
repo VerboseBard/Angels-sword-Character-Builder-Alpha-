@@ -10,6 +10,10 @@ Use the release ZIP, not the green GitHub `Code` button.
 
    [Download Angel Sword Lirian Chronicles Beta 1.2 for Windows](https://github.com/VerboseBard/Angels-sword-Character-Builder-Alpha-/releases/download/beta-1.2/Angel-Sword-Lirian-Chronicles-Beta-1.2-Windows.zip)
 
+   Download size: about `63.8 MB`.
+
+   Size after unzipping: about `144.8 MB`.
+
 2. When the ZIP finishes downloading, right-click it and choose `Extract All`.
 
 3. Open the extracted folder:
